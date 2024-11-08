@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aqi/static/css/main.f9145929.css",
+    "main.js": "/aqi/static/js/main.b0811d80.js",
+    "static/js/453.b93e6b54.chunk.js": "/aqi/static/js/453.b93e6b54.chunk.js",
+    "index.html": "/aqi/index.html",
+    "main.f9145929.css.map": "/aqi/static/css/main.f9145929.css.map",
+    "main.b0811d80.js.map": "/aqi/static/js/main.b0811d80.js.map",
+    "453.b93e6b54.chunk.js.map": "/aqi/static/js/453.b93e6b54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9145929.css",
+    "static/js/main.b0811d80.js"
+  ]
+}
